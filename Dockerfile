@@ -1,0 +1,2 @@
+ARG BASE_IMAGE=php:7.1-fpm
+FROM $BASE_IMAGE
