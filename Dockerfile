@@ -17,6 +17,7 @@ RUN buildDeps=" \
        curl \
        cron \
        git \
+       unzip \
        libfreetype6-dev \
        libicu-dev \
        libjpeg-dev \
